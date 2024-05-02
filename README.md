@@ -1,4 +1,4 @@
-# garment-inventory-optimisation
+# allocation-optimisation
 
 ## 课程
 
